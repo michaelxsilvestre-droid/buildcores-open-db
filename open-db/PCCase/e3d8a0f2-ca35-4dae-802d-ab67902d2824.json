@@ -4,14 +4,14 @@
     "name": "darkFlash DY470 ATX Mid Tower White with Tempered Glass Side Panel",
     "manufacturer": "darkFlash",
     "part_numbers": [
-      "DY470 White"
+      "DY470 Pink"
     ],
     "series": "DY",
-    "variant": "470 White"
+    "variant": "470 Pink"
   },
   "form_factor": "ATX Mid Tower",
   "color": [
-    "WHITE"
+    "PINK"
   ],
   "power_supply": "None",
   "supported_power_supply_form_factors": [],
